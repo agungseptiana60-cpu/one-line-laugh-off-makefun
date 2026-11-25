@@ -19,7 +19,7 @@ import { join } from 'node:path';
 //    most ordinary modern thing — a recurring bill you cannot escape.
 // 3. Surprise: nobody expects a genie to answer a wish with billing.
 //    The twist is the whole joke, and it arrives in the final word.
-// 4. Economy: 76 characters, one sentence, every word earns its place.
+// 4. Economy: 78 characters, one sentence, every word earns its place.
 //    Nothing to trim, no second idea, no repeated joke.
 // 5. Freshness: genies are old, subscriptions are new — the collision
 //    of the two is the fresh idea, not a recycled setup.
